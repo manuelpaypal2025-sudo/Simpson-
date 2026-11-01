@@ -1,50 +1,56 @@
 [
-    {
-        "name": "GTA 4 V1",
-        "arch": "32 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1L4uxkcPUJK72B9n9GFbrcVMxpSc2ee-N",
-        "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
-    },
-    {
-        "name": "GTA 5",
-        "arch": "32 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1CE5rt9cX93QbcO6Q7bbMGgXIGz1o67Uy",
-        "iconUrl": "https://i.ibb.co/v4vGRB27/gtav.png"
-    },
-    {
-        "name": "GTA 5 LOS SANTOS",
-        "arch": "32 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1V9DSbxg1DJJpXq8PetJlHiQdjgMvKkQs",
-        "iconUrl": "https://i.ibb.co/v4vGRB27/gtav.png"
-    },
-    {
-        "name": "GTA UNITED",
-        "arch": "32 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1Lqvn1BP-cD59yk_j1YUD9TFXbyy7LT06",
-        "iconUrl": "https://i.ibb.co/chww1PZG/united.png"
-    },
-    {
-        "name": "GTA 6 LITE",
-        "arch": "32 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1vbr29yxGVwsFTlRVcpHpe-DdxpFEnmYX",
-        "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
-    },
-    {
-        "name": "GTA 6 V1",
-        "arch": "64 bits",
-        "url": "https://drive.google.com/uc?export=download&id=14aV0qJ16S6o8MAGzA23VjUORxwR982Ou",
-        "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
-    },
-    {
-        "name": "GTA 6 BETA",
-        "arch": "64 bits",
-        "url": "https://drive.google.com/uc?export=download&id=1zaOHHsr6hFo7UPTXXIHR6X5dKeextJyZ",
-        "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
-    },
-    {
-        "name": "GTA 4 V2",
-        "arch": "32 bits",
-        "url": "https://drive.usercontent.google.com/download?id=1E1kvoqRfhKrWf_vSqFbEOppB0bcXgS82&export=download&authuser=0",
-        "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
-    }
+  {
+    "name": "GTA 4 V1",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1L4uxkcPUJK72B9n9GFbrcVMxpSc2ee-N",
+    "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
+  },
+  {
+    "name": "GTA 5",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1CE5rt9cX93QbcO6Q7bbMGgXIGz1o67Uy",
+    "iconUrl": "https://i.ibb.co/v4vGRB27/gtav.png"
+  },
+  {
+    "name": "GTA 5 LOS SANTOS",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1V9DSbxg1DJJpXq8PetJlHiQdjgMvKkQs",
+    "iconUrl": "https://i.ibb.co/v4vGRB27/gtav.png"
+  },
+  {
+    "name": "GTA UNITED",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1Lqvn1BP-cD59yk_j1YUD9TFXbyy7LT06",
+    "iconUrl": "https://i.ibb.co/chww1PZG/united.png"
+  },
+  {
+    "name": "GTA 6 LITE",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1vbr29yxGVwsFTlRVcpHpe-DdxpFEnmYX",
+    "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
+  },
+  {
+    "name": "GTA 6 V1",
+    "arch": "64 bits",
+    "url": "https://drive.google.com/uc?export=download&id=14aV0qJ16S6o8MAGzA23VjUORxwR982Ou",
+    "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
+  },
+  {
+    "name": "GTA 6 BETA",
+    "arch": "64 bits",
+    "url": "https://drive.google.com/uc?export=download&id=1zaOHHsr6hFo7UPTXXIHR6X5dKeextJyZ",
+    "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
+  },
+  {
+    "name": "GTA 4 V2",
+    "arch": "32 bits",
+    "url": "https://drive.usercontent.google.com/download?id=1E1kvoqRfhKrWf_vSqFbEOppB0bcXgS82&export=download&authuser=0",
+    "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
+  },
+  {
+    "name": "Gtavv",
+    "arch": "32 bits",
+    "url": "https://drive.google.com/file/d/19SCAxI1XInlLHcby5qgIepVIkvDxpP4o/view?usp=sharing",
+    "iconUrl": "https://www.mediafire.com/folder/j551p31qxnrjk/STORE+RELEASES"
+  }
 ]
