@@ -6,12 +6,6 @@
         "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
     },
     {
-        "name": "GTA 4 V2",
-        "arch": "32 bits",
-        "url": "https://drive.usercontent.google.com/download?id=1E1kvoqRfhKrWf_vSqFbEOppB0bcXgS82&export=download&authuser=0",
-        "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
-    },
-    {
         "name": "GTA 5",
         "arch": "32 bits",
         "url": "https://drive.google.com/uc?export=download&id=1CE5rt9cX93QbcO6Q7bbMGgXIGz1o67Uy",
@@ -46,5 +40,11 @@
         "arch": "64 bits",
         "url": "https://drive.google.com/uc?export=download&id=1zaOHHsr6hFo7UPTXXIHR6X5dKeextJyZ",
         "iconUrl": "https://i.ibb.co/9mcmxnxb/gta6.png"
+    },
+    {
+        "name": "GTA 4 V2",
+        "arch": "32 bits",
+        "url": "https://drive.usercontent.google.com/download?id=1E1kvoqRfhKrWf_vSqFbEOppB0bcXgS82&export=download&authuser=0",
+        "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
     }
 ]
