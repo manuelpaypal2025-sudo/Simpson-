@@ -46,5 +46,12 @@
         "arch": "32 bits",
         "url": "https://drive.usercontent.google.com/download?id=1E1kvoqRfhKrWf_vSqFbEOppB0bcXgS82&export=download&authuser=0",
         "iconUrl": "https://i.ibb.co/35x2RPyX/gta4.png"
+    },
+    {
+        "name": "Test",
+        "arch": "32 bits",
+        "linkType": "direct",
+        "url": "https://gtavmodgtasadownload.blogspot.com/?m=1",
+        "iconUrl": "https://gtavmodgtasadownload.blogspot.com/?m=1"
     }
 ]
