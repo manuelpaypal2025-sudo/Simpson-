@@ -1,6 +1,11 @@
 {
   "version": 1,
   "price": 1000,
-  "basic": {},
+  "basic": {
+    "1": {
+      "type": "skin",
+      "id": "narutoz"
+    }
+  },
   "premium": {}
 }
