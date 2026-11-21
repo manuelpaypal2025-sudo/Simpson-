@@ -4,6 +4,7 @@
     {
       "id": "evmwpqxp1088",
       "name": "NUEVO EVENTO",
+      "alert": true,
       "ends": "2026-11-24",
       "bg": "https://i.postimg.cc/d1LNmcMZ/1795226749961.jpg",
       "rewards": [
