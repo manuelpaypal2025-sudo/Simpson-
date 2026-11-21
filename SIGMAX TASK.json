@@ -25,6 +25,14 @@
           }
         },
         {
+          "type": "emote",
+          "id": 3,
+          "mission": {
+            "kind": "matches",
+            "n": 20
+          }
+        },
+        {
           "type": "skin",
           "id": "tung",
           "mission": {
