@@ -41,6 +41,47 @@
           }
         }
       ]
+    },
+    {
+      "id": "evmwr1otku6",
+      "name": "AURA DE LOS HOKAGE",
+      "alert": true,
+      "ends": "2026-11-30",
+      "bg": "https://i.postimg.cc/RZ7J6FXT/Polish-20261121-193320120.jpg",
+      "rewards": [
+        {
+          "type": "coin",
+          "amount": 50,
+          "mission": {
+            "kind": "damage",
+            "n": 500
+          }
+        },
+        {
+          "type": "avatar",
+          "id": 0,
+          "mission": {
+            "kind": "wins",
+            "n": 30
+          }
+        },
+        {
+          "type": "coin",
+          "amount": 1000,
+          "mission": {
+            "kind": "matches",
+            "n": 32
+          }
+        },
+        {
+          "type": "skin",
+          "id": "kurama",
+          "mission": {
+            "kind": "wins",
+            "n": 50
+          }
+        }
+      ]
     }
   ]
 }
