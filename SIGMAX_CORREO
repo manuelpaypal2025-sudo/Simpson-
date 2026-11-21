@@ -8,13 +8,40 @@
       "days": 7,
       "rewards": [
         {
-          "type": "all_banners"
+          "type": "coin",
+          "amount": 4000
         },
         {
-          "type": "all_avatars"
+          "type": "banner",
+          "id": 0
         },
         {
-          "type": "all_skins"
+          "type": "banner",
+          "id": 1
+        },
+        {
+          "type": "banner",
+          "id": 2
+        },
+        {
+          "type": "banner",
+          "id": 3
+        },
+        {
+          "type": "avatar",
+          "id": 5
+        },
+        {
+          "type": "avatar",
+          "id": 6
+        },
+        {
+          "type": "avatar",
+          "id": 7
+        },
+        {
+          "type": "avatar",
+          "id": 8
         }
       ]
     }
