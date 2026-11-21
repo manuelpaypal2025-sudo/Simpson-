@@ -1,1 +1,22 @@
-//correo
+{
+  "version": 1,
+  "mails": [
+    {
+      "id": "mlmwqrriry28",
+      "title": "RECOMPENSAS DE VERIFICACIÓN",
+      "message": "GRACIAS POR APRECIAR EL JUEGO, AQUÍ ESTÁN TUS RECOMPENSAS.....",
+      "days": 7,
+      "rewards": [
+        {
+          "type": "all_banners"
+        },
+        {
+          "type": "all_avatars"
+        },
+        {
+          "type": "all_skins"
+        }
+      ]
+    }
+  ]
+}
