@@ -82,6 +82,47 @@
           }
         }
       ]
+    },
+    {
+      "id": "evmwr1s4pg73",
+      "name": "EL PODER DE LA SABIDURÍA",
+      "alert": true,
+      "ends": "2026-11-30",
+      "bg": "https://i.postimg.cc/RVzHMKTV/Polish-20261121-193341075.jpg",
+      "rewards": [
+        {
+          "type": "coin",
+          "amount": 50,
+          "mission": {
+            "kind": "kills",
+            "n": 10
+          }
+        },
+        {
+          "type": "banner",
+          "id": 1,
+          "mission": {
+            "kind": "kills",
+            "n": 50
+          }
+        },
+        {
+          "type": "coin",
+          "amount": 500,
+          "mission": {
+            "kind": "wins",
+            "n": 20
+          }
+        },
+        {
+          "type": "skin",
+          "id": "naruto",
+          "mission": {
+            "kind": "wins",
+            "n": 40
+          }
+        }
+      ]
     }
   ]
 }
