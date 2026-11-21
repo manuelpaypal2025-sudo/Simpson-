@@ -13,6 +13,22 @@
           "amount": 10000
         }
       ]
+    },
+    {
+      "id": "evmwqyq69x49",
+      "name": "BIENVENIDO DE VUELTA",
+      "alert": true,
+      "ends": "2026-11-24",
+      "rewards": [
+        {
+          "type": "coin",
+          "amount": 500,
+          "mission": {
+            "kind": "damage",
+            "n": 20000
+          }
+        }
+      ]
     }
   ]
 }
