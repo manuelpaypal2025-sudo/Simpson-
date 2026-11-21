@@ -1,1 +1,17 @@
-//EVENTOS DE TEMPORADA
+{
+  "events": [
+    {
+      "id": "evmwpqg11v16",
+      "name": "NARUTO",
+      "ends": "2026-11-20",
+      "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcv1nH69MUgY12TkwsoOF9yYl0YO64udDfWqckQ_gE4T3JSDgFnjiiN3cCrLF9sJ6DeAy6n6gyR-s7ttcZvacY8LTV365WLu2KNblQHUB&s=10",
+      "rewards": [
+        {
+          "name": "NARUTO",
+          "qty": "x50",
+          "img": "Naruto"
+        }
+      ]
+    }
+  ]
+}
