@@ -9,6 +9,78 @@
     "3": {
       "type": "coin",
       "amount": 10
+    },
+    "6": {
+      "type": "coin",
+      "amount": 50
+    },
+    "8": {
+      "type": "coin",
+      "amount": 50
+    },
+    "11": {
+      "type": "coin",
+      "amount": 25
+    },
+    "14": {
+      "type": "emote",
+      "id": 5
+    },
+    "16": {
+      "type": "coin",
+      "amount": 80
+    },
+    "18": {
+      "type": "coin",
+      "amount": 20
+    },
+    "20": {
+      "type": "emote",
+      "id": 1
+    },
+    "22": {
+      "type": "coin",
+      "amount": 250
+    },
+    "25": {
+      "type": "coin",
+      "amount": 250
+    },
+    "29": {
+      "type": "coin",
+      "amount": 20
+    },
+    "33": {
+      "type": "coin",
+      "amount": 50
+    },
+    "36": {
+      "type": "emote",
+      "id": 2
+    },
+    "39": {
+      "type": "coin",
+      "amount": 500
+    },
+    "42": {
+      "type": "coin",
+      "amount": 250
+    },
+    "44": {
+      "type": "coin",
+      "amount": 50
+    },
+    "46": {
+      "type": "coin",
+      "amount": 100
+    },
+    "48": {
+      "type": "coin",
+      "amount": 50
+    },
+    "50": {
+      "type": "skin",
+      "id": "narutoz"
     }
   },
   "premium": {
@@ -23,6 +95,78 @@
     "6": {
       "type": "emote",
       "id": 0
+    },
+    "9": {
+      "type": "coin",
+      "amount": 100
+    },
+    "12": {
+      "type": "coin",
+      "amount": 250
+    },
+    "14": {
+      "type": "emote",
+      "id": 4
+    },
+    "16": {
+      "type": "skin",
+      "id": "inosuke"
+    },
+    "19": {
+      "type": "coin",
+      "amount": 500
+    },
+    "21": {
+      "type": "coin",
+      "amount": 1000
+    },
+    "23": {
+      "type": "emote",
+      "id": 2
+    },
+    "27": {
+      "type": "coin",
+      "amount": 10000
+    },
+    "31": {
+      "type": "coin",
+      "amount": 100
+    },
+    "33": {
+      "type": "emote",
+      "id": 3
+    },
+    "35": {
+      "type": "skin",
+      "id": "orochimaru"
+    },
+    "37": {
+      "type": "coin",
+      "amount": 1000
+    },
+    "40": {
+      "type": "skin",
+      "id": "sasuke"
+    },
+    "42": {
+      "type": "skin",
+      "id": "pain"
+    },
+    "44": {
+      "type": "coin",
+      "amount": 500
+    },
+    "46": {
+      "type": "skin",
+      "id": "tung"
+    },
+    "48": {
+      "type": "skin",
+      "id": "naruto"
+    },
+    "50": {
+      "type": "skin",
+      "id": "kurama"
     }
   }
 }
