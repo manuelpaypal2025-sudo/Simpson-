@@ -5,11 +5,8 @@
       "id": "evmwpqxp1088",
       "name": "NUEVO EVENTO",
       "ends": "2026-11-20",
+      "bg": "https://i.postimg.cc/d1LNmcMZ/1795226749961.jpg",
       "rewards": [
-        {
-          "type": "skin",
-          "id": "kurama"
-        },
         {
           "type": "coin",
           "amount": 500
@@ -21,6 +18,10 @@
         {
           "type": "emote",
           "id": 1
+        },
+        {
+          "type": "skin",
+          "id": "tung"
         }
       ]
     }
