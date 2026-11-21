@@ -161,12 +161,8 @@
       "id": "tung"
     },
     "48": {
-      "type": "skin",
-      "id": "naruto"
-    },
-    "49": {
-      "type": "skin",
-      "id": "sasuke"
+      "type": "coin",
+      "amount": 100
     },
     "50": {
       "type": "skin",
