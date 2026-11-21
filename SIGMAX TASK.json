@@ -6,6 +6,7 @@
       "name": "BIENVENIDO DE VUELTA",
       "alert": true,
       "ends": "2026-11-24",
+      "bg": "https://i.postimg.cc/nrPYP5qL/Polish-20261121-184155795.png",
       "rewards": [
         {
           "type": "coin",
@@ -13,6 +14,22 @@
           "mission": {
             "kind": "damage",
             "n": 20000
+          }
+        },
+        {
+          "type": "coin",
+          "amount": 1000,
+          "mission": {
+            "kind": "kills",
+            "n": 60
+          }
+        },
+        {
+          "type": "skin",
+          "id": "tung",
+          "mission": {
+            "kind": "wins",
+            "n": 20
           }
         }
       ]
