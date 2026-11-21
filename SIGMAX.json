@@ -3,9 +3,26 @@
   "price": 1000,
   "basic": {
     "1": {
-      "type": "skin",
-      "id": "narutoz"
+      "type": "coin",
+      "amount": 20
+    },
+    "3": {
+      "type": "coin",
+      "amount": 10
     }
   },
-  "premium": {}
+  "premium": {
+    "1": {
+      "type": "coin",
+      "amount": 250
+    },
+    "4": {
+      "type": "coin",
+      "amount": 100
+    },
+    "6": {
+      "type": "emote",
+      "id": 0
+    }
+  }
 }
