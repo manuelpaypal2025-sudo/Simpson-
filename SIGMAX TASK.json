@@ -11,58 +11,6 @@
         {
           "type": "coin",
           "amount": 10000
-        },
-        {
-          "type": "avatar",
-          "id": 6
-        },
-        {
-          "type": "banner",
-          "id": 8
-        },
-        {
-          "type": "skin",
-          "id": "kurama"
-        },
-        {
-          "type": "skin",
-          "id": "inosuke"
-        },
-        {
-          "type": "skin",
-          "id": "narutoz"
-        },
-        {
-          "type": "skin",
-          "id": "pain"
-        },
-        {
-          "type": "skin",
-          "id": "orochimaru"
-        },
-        {
-          "type": "skin",
-          "id": "naruto"
-        },
-        {
-          "type": "skin",
-          "id": "sasuke"
-        },
-        {
-          "type": "emote",
-          "id": 0
-        },
-        {
-          "type": "skin",
-          "id": "tung"
-        },
-        {
-          "type": "banner",
-          "id": 2
-        },
-        {
-          "type": "avatar",
-          "id": 5
         }
       ]
     }
