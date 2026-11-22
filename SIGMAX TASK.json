@@ -21,10 +21,6 @@
           "id": 7
         },
         {
-          "type": "coin",
-          "amount": 20000
-        },
-        {
           "type": "emote",
           "id": 9
         },
