@@ -1,1 +1,16 @@
-//Battle Pass
+{
+  "version": 1,
+  "price": 1000,
+  "basic": {
+    "1": {
+      "type": "coin",
+      "amount": 50
+    }
+  },
+  "premium": {
+    "1": {
+      "type": "coin",
+      "amount": 150
+    }
+  }
+}
