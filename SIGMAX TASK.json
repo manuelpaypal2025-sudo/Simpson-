@@ -3,124 +3,30 @@
   "events": [
     {
       "id": "evmwqyq69x49",
-      "name": "BIENVENIDO DE VUELTA",
+      "name": "Free Orochimaru bundle",
       "alert": true,
-      "ends": "2026-11-24",
+      "ends": "2026-11-30",
       "bg": "https://i.postimg.cc/nrPYP5qL/Polish-20261121-184155795.png",
       "rewards": [
         {
           "type": "coin",
-          "amount": 500,
-          "mission": {
-            "kind": "damage",
-            "n": 20000
-          }
+          "amount": 500
         },
         {
           "type": "coin",
-          "amount": 1000,
-          "mission": {
-            "kind": "kills",
-            "n": 60
-          }
+          "amount": 1000
         },
         {
           "type": "emote",
-          "id": 3,
-          "mission": {
-            "kind": "matches",
-            "n": 20
-          }
+          "id": 7
+        },
+        {
+          "type": "emote",
+          "id": 9
         },
         {
           "type": "skin",
-          "id": "tung",
-          "mission": {
-            "kind": "wins",
-            "n": 20
-          }
-        }
-      ]
-    },
-    {
-      "id": "evmwr1otku6",
-      "name": "AURA DE LOS HOKAGE",
-      "alert": true,
-      "ends": "2026-11-30",
-      "bg": "https://i.postimg.cc/L8gKNYrB/Polish-20261121-194345073.jpg",
-      "rewards": [
-        {
-          "type": "coin",
-          "amount": 50,
-          "mission": {
-            "kind": "damage",
-            "n": 500
-          }
-        },
-        {
-          "type": "avatar",
-          "id": 0,
-          "mission": {
-            "kind": "wins",
-            "n": 30
-          }
-        },
-        {
-          "type": "coin",
-          "amount": 1000,
-          "mission": {
-            "kind": "matches",
-            "n": 32
-          }
-        },
-        {
-          "type": "skin",
-          "id": "kurama",
-          "mission": {
-            "kind": "wins",
-            "n": 50
-          }
-        }
-      ]
-    },
-    {
-      "id": "evmwr1s4pg73",
-      "name": "EL PODER DE LA SABIDURÍA",
-      "alert": true,
-      "ends": "2026-11-30",
-      "bg": "https://i.postimg.cc/J0YvQMx2/Polish-20261121-194441570.jpg",
-      "rewards": [
-        {
-          "type": "coin",
-          "amount": 50,
-          "mission": {
-            "kind": "kills",
-            "n": 10
-          }
-        },
-        {
-          "type": "banner",
-          "id": 1,
-          "mission": {
-            "kind": "kills",
-            "n": 50
-          }
-        },
-        {
-          "type": "coin",
-          "amount": 500,
-          "mission": {
-            "kind": "wins",
-            "n": 20
-          }
-        },
-        {
-          "type": "skin",
-          "id": "naruto",
-          "mission": {
-            "kind": "wins",
-            "n": 40
-          }
+          "id": "orochimaru"
         }
       ]
     }
