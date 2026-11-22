@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "db": "",
+  "loginBg": "",
+  "lobbyBg": "",
+  "loadBg": "",
+  "maint": {
+    "on": false,
+    "msg": ""
+  },
+  "announce": "",
+  "bans": [
+    {
+      "uid": "816121644",
+      "name": "",
+      "reason": "k",
+      "at": 1795347771545
+    }
+  ]
+}
