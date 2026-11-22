@@ -1,1 +1,8 @@
-//ads
+{
+  "version": 1,
+  "ads": [
+    {
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7CrElBvSwGA1zjhyKdxhlJxug1DYXs0for-xsbiHPw&s=10"
+    }
+  ]
+}
