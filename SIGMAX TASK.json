@@ -25,6 +25,14 @@
           "id": 9
         },
         {
+          "type": "banner",
+          "id": 6
+        },
+        {
+          "type": "avatar",
+          "id": 6
+        },
+        {
           "type": "skin",
           "id": "orochimaru"
         }
