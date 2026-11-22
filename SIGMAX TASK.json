@@ -6,7 +6,7 @@
       "name": "Free Orochimaru bundle",
       "alert": true,
       "ends": "2026-11-30",
-      "bg": "https://i.postimg.cc/nrPYP5qL/Polish-20261121-184155795.png",
+      "bg": "https://i.postimg.cc/wjDsPd4n/Picsart-26-11-22-12-46-56-340.png",
       "rewards": [
         {
           "type": "coin",
@@ -19,6 +19,10 @@
         {
           "type": "emote",
           "id": 7
+        },
+        {
+          "type": "coin",
+          "amount": 20000
         },
         {
           "type": "emote",
