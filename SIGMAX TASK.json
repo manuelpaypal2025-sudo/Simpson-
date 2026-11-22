@@ -17,20 +17,16 @@
           "amount": 1000
         },
         {
+          "type": "avatar",
+          "id": 6
+        },
+        {
           "type": "emote",
           "id": 7
         },
         {
           "type": "emote",
           "id": 9
-        },
-        {
-          "type": "banner",
-          "id": 6
-        },
-        {
-          "type": "avatar",
-          "id": 6
         },
         {
           "type": "skin",
