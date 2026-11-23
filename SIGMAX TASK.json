@@ -1,38 +1,4 @@
 {
   "version": 1,
-  "events": [
-    {
-      "id": "evmwqyq69x49",
-      "name": "Free Orochimaru bundle",
-      "alert": true,
-      "ends": "2026-11-30",
-      "bg": "https://i.postimg.cc/wjDsPd4n/Picsart-26-11-22-12-46-56-340.png",
-      "rewards": [
-        {
-          "type": "coin",
-          "amount": 500
-        },
-        {
-          "type": "coin",
-          "amount": 1000
-        },
-        {
-          "type": "avatar",
-          "id": 6
-        },
-        {
-          "type": "emote",
-          "id": 7
-        },
-        {
-          "type": "emote",
-          "id": 9
-        },
-        {
-          "type": "skin",
-          "id": "orochimaru"
-        }
-      ]
-    }
-  ]
+  "events": []
 }
