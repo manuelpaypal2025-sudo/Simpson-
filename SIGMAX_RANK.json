@@ -73,6 +73,10 @@
       {
         "type": "coin",
         "amount": 250
+      },
+      {
+        "type": "avatar",
+        "id": 3
       }
     ],
     "12": [
@@ -135,24 +139,40 @@
       {
         "type": "banner",
         "id": 9
+      },
+      {
+        "type": "avatar",
+        "id": 1
       }
     ],
     "21": [
       {
         "type": "coin",
         "amount": 500
+      },
+      {
+        "type": "avatar",
+        "id": 6
       }
     ],
     "22": [
       {
         "type": "coin",
         "amount": 250
+      },
+      {
+        "type": "avatar",
+        "id": 9
       }
     ],
     "23": [
       {
         "type": "coin",
         "amount": 500
+      },
+      {
+        "type": "avatar",
+        "id": 10
       }
     ],
     "24": [
