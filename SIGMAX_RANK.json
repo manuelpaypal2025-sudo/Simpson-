@@ -149,18 +149,30 @@
       {
         "type": "coin",
         "amount": 500
+      },
+      {
+        "type": "avatar",
+        "id": 21
       }
     ],
     "22": [
       {
         "type": "coin",
         "amount": 250
+      },
+      {
+        "type": "avatar",
+        "id": 23
       }
     ],
     "23": [
       {
         "type": "coin",
         "amount": 500
+      },
+      {
+        "type": "avatar",
+        "id": 24
       }
     ],
     "24": [
