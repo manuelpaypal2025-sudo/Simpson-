@@ -9,12 +9,5 @@
     "msg": ""
   },
   "announce": "",
-  "bans": [
-    {
-      "uid": "603973005",
-      "name": "TigreKid34",
-      "reason": "",
-      "at": 1795623449508
-    }
-  ]
+  "bans": []
 }
